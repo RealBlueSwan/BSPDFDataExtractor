@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "woJ6fRGNsTI=",
+  "success": true,
+  "projectFilePath": "/Users/greenswan/git/job/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/greenswan/.nuget/packages/pdfpig/0.1.8/pdfpig.0.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+1. Search for the flight numbers LX:::: on first page and make a list of the flight numbers. 
+2. Search for relevant pages with "Commander" and "Helvetic Airways - ... " and add them to "relevant pages" 
+3. Iterate over the list of flight numbers and only analyze the pages containing the flight number. 
+4. Store the data in an object type for each flight
+5. Have a console application to monitor the process and give feedback to the user. Raise errors when needed. I chose to add the erorr to the data for further inspection instead of killing the program. 
+6. Implement a good way to raise errors and store the gathered data and errors in a text file for simplicity reasons. 
+
+--possible errors... 
+  1. If Page fails to contain a flight number, the program fails. If the page fails to contain a "commander" the program only receives half the data...
+  2. ... 
